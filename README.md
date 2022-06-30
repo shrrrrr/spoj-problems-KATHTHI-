@@ -1,0 +1,2 @@
+# spoj-problems-KATHTHI-
+Solution
